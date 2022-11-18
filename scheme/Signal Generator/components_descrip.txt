@@ -1,0 +1,5 @@
+X1 LCD 16x2
+X1 DAC R-2R
+X4 Buttons
+R1 - 1 kΩ
+R2 - R5 10 kΩ
